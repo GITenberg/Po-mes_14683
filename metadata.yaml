@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Oscar_Wilde
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14683#Po-mes
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2005-01-13'
 gutenberg_type: Text
